@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ListaSpinner</string>
+    <string name="selecciona_una_opcio">Selecciona una opcio</string>
+    <string name="action_settings">Settings</string>
+</resources>
